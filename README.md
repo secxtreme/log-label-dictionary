@@ -1,1 +1,1 @@
-# log-label-dictionray
+# log-label-dictionary
